@@ -1,63 +1,60 @@
 class Solution {
 public:
-    int n, l, r;
-    int dp[2001][2][2001];
-    int mod = 1e9 + 7;
-    int solve(int i, int dir, int x) {
-        if (x < l || x > r)
-            return 0;
-        if (i == n)
-            return 1;
-
-        if (dp[i][dir][x] != -1)
-            return dp[i][dir][x];
-        int ans = 0;
-
-        if (dir) {
-            for (int y = x + 1; y <= r; y++)
-                ans = (ans + solve(i + 1, 0, y)) % mod;
-        } else {
-            for (int y = l; y < x; y++)
-                ans = (ans + solve(i + 1, 1, y)) % mod;
-        }
-
-        return dp[i][dir][x] = ans % mod;
-    }
-    int zigZagArrays(int N, int L, int R) {
+int n,m,mod=1e9+7;
+int dp[2001][2001][2];
+int solve(int i,int x,bool up){
+    if(i==n)   return 1;
+    if(dp[i][x][up]!=-1) return dp[i][x][up];
+    int res=0;
+          if(up){
+          for(int st = x+1; st<=m ; st++)
+          res = (res+solve(i+1,st,false))%mod;
+          }
+          else{
+          for(int st=1;st<x;st++)
+          res = (res + solve(i+1,st,true))%mod;
+          }
+    return dp[i][x][up] = res%mod;
+}
+    int zigZagArrays(int N, int l, int r) {
+        m = r-l+1;
         n = N;
-        l = L;
-        r = R;
-        int m = r-l+1;
-        vector<vector<int>> dp0(n+1, vector<int>(m,0));
-        vector<vector<int>> dp1(n+1, vector<int>(m,0));
-         
-         for(int i=0;i<m;i++) {
-            dp0[1][i] = 1;
-            dp1[1][i] = 1;
-         }
-         for(int len=2;len<=n;len++){
-            
-            vector<int> pre0(m,0), pre1(m,0);
+        memset(dp,-1,sizeof(dp));
+        int res=0; 
+        //  for(int st=1;st<=m;st++){
+        //      res = (res + solve(1,st,true))%mod;
+        //      res = (res + solve(1,st,false))%mod;
+        //  }
+          static int cur[2002][2], nxt[2002][2];
+    static int pref0[2002], pref1[2002];
 
-          pre0[0] = dp0[len-1][0];
-            pre1[0] = dp1[len-1][0];
+    for(int val=1; val<=m; val++){
+        cur[val][0] = 1;
+        cur[val][1] = 1;
+    }
+          for(int i=N-1; i>=1; i--){
 
-            for(int i=1;i<m;i++){
-                pre0[i] = (pre0[i-1] + dp0[len-1][i])%mod;
-                pre1[i] = (pre1[i-1] + dp1[len-1][i])%mod;
-            }
-            for(int i=0;i<m;i++){
-                if(i>0) dp1[len][i] = pre0[i-1];
-                int tot = pre1[m-1];
-                dp0[len][i] = (tot-pre1[i] + mod)%mod;
-            }
+        pref0[0] = 0;
+        pref1[0] = 0;
 
-         }
-        int ans = 0;
-        for (int i = 0; i<m; i++) {
-            ans = (ans +dp1[n][i] ) % mod;
-            ans = (ans + dp0[n][i] ) % mod;
+        for(int val=1; val<=m; val++){
+            pref0[val] = (pref0[val-1] + cur[val][0]) % mod;
+            pref1[val] = (pref1[val-1] + cur[val][1]) % mod;
         }
-        return ans;
+
+        for(int val=1; val<=m; val++){
+            nxt[val][1] = (pref0[m] - pref0[val] + mod) % mod;
+            nxt[val][0] = pref1[val-1];
+        }
+        for(int val=1; val<=m; val++){
+            cur[val][0] = nxt[val][0];
+            cur[val][1] = nxt[val][1];
+        }
+    }
+        for(int st=1;st<=m;st++){
+            res = (res+cur[st][0])%mod;
+            res = (res+cur[st][1])%mod;
+        }
+         return res;
     }
 };
