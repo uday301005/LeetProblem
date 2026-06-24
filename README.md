@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
+| [0935-knight-dialer](https://github.com/uday301005/LeetProblem/tree/master/0935-knight-dialer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/uday301005/LeetProblem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
