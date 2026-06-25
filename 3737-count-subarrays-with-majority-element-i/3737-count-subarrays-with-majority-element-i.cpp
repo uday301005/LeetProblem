@@ -7,7 +7,8 @@ public:
         int c=0;
         for(int j=i;j<n;j++){
             if(a[j]==t) c++;
-            if(2*c>j-i+1) ans++;
+            else c--;
+            if(c>0) ans++;
         }
        }
        return ans;
