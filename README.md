@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/uday301005/LeetProblem/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/uday301005/LeetProblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/uday301005/LeetProblem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/uday301005/LeetProblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/uday301005/LeetProblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/uday301005/LeetProblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
