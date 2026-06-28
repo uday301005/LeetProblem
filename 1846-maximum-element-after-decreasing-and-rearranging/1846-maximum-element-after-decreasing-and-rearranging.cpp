@@ -2,13 +2,13 @@ class Solution {
 public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& a) {
         int n = a.size();
-        sort(a.begin(),a.end());
+        vector<int> freq(n+1,0);
+
+        for(int i=0;i<n;i++) freq[min(a[i],n)]++;
+
         int ans=1;
-        a[0]=1;
-        for(int i=1;i<n;i++) {
-            a[i] = (a[i]>a[i-1]+1) ? a[i-1]+1 : a[i];
-            ans = max(ans,a[i]);
-        }
+        for(int i=1;i <= n;i++) 
+            ans = min(ans+freq[i],i);
 return ans;
     }
 };
