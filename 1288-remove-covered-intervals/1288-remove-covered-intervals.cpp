@@ -7,12 +7,11 @@ public:
             });
        int n=a.size();
        int rem =0,mx=0;
-       for(int i=0;i<n;i++){
+       for(int i=0;i<n;i++)
            if(a[i][1]>mx){
              rem++;
            mx = a[i][1];
            }
-       }
   return rem;
     }
 };
