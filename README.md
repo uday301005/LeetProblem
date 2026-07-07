@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 | [1189-maximum-number-of-balloons](https://github.com/uday301005/LeetProblem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uday301005/LeetProblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/uday301005/LeetProblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/uday301005/LeetProblem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/uday301005/LeetProblem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
