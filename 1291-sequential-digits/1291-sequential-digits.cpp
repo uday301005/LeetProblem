@@ -7,6 +7,7 @@ public:
 
         while(!que.empty()){
             int digit = que.front();
+            if(digit > high) break;
             que.pop();
             if(low <= digit && digit <= high)
              res.push_back(digit);
