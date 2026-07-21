@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0935-knight-dialer](https://github.com/uday301005/LeetProblem/tree/master/0935-knight-dialer) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/uday301005/LeetProblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -176,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
 ## Geometry
@@ -213,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
