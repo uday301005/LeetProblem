@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0935-knight-dialer](https://github.com/uday301005/LeetProblem/tree/master/0935-knight-dialer) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
+| [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/uday301005/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
