@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/uday301005/LeetProblem/tree/master/0935-knight-dialer) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/uday301005/LeetProblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/uday301005/LeetProblem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/uday301005/LeetProblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/uday301005/LeetProblem/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday301005/LeetProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/uday301005/LeetProblem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/uday301005/LeetProblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -283,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
