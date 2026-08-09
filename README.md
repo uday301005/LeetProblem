@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/uday301005/LeetProblem/tree/master/0935-knight-dialer) |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/uday301005/LeetProblem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/uday301005/LeetProblem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
@@ -311,9 +315,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/uday301005/LeetProblem/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
