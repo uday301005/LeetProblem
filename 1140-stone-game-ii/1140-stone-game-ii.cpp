@@ -6,7 +6,7 @@ int dp[2][101][101];
     if(i>=n) return 0;
     if(dp[per][i][m] != -1) return dp[per][i][m];
     int st = 0;
-    int res = per == 1 ? -1 : INT_MAX;
+    int res = per == 1 ? -1 : 1e6;
     for(int x=1 ; x <= min(2*m,n-i); x++){
         st += a[i+x-1];
         if(per==1)
