@@ -1,7 +1,7 @@
 class Solution {
 public:
 int n;
-int dp[2][101][201];
+int dp[2][101][101];
  int solve(int per, int i ,int m,vector<int> & a){
     if(i>=n) return 0;
     if(dp[per][i][m] != -1) return dp[per][i][m];
