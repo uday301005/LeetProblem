@@ -10,8 +10,9 @@ public:
                 sum += a[j];
             }
             else break;
-        for(int x = sum ;x<=2500;x++)
-          if(!st.count(x)) return x;
-          return -1;
+        while(st.count(sum))
+        sum++;
+
+        return sum;
     }
 };
