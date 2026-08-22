@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/uday301005/LeetProblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/uday301005/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/uday301005/LeetProblem/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/uday301005/LeetProblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/uday301005/LeetProblem/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/uday301005/LeetProblem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/uday301005/LeetProblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/uday301005/LeetProblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/uday301005/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/uday301005/LeetProblem/tree/master/1510-stone-game-iv) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/uday301005/LeetProblem/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
