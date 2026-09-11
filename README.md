@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/uday301005/LeetProblem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/uday301005/LeetProblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/uday301005/LeetProblem/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/uday301005/LeetProblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/uday301005/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/uday301005/LeetProblem/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/uday301005/LeetProblem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/uday301005/LeetProblem/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/uday301005/LeetProblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/uday301005/LeetProblem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/uday301005/LeetProblem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
