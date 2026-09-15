@@ -1,15 +1,10 @@
 class Solution {
 public:
 int n,k;
+vector<int> t;
 vector<vector<int>> dp;
 vector<vector<bool>> pal;
-bool isPalin(string & s, int i, int j){
-    while(i<j && s[i] == s[j]){
-        i++;
-        j--;
-    }
-    return i>=j;
-}
+
 int solve(string & s,int i ,int j){
      if(i >= n || j >= n) return 0;
      if(dp[i][j] != -1) return dp[i][j];
@@ -21,12 +16,22 @@ int solve(string & s,int i ,int j){
     }
     int gro = solve(s,i,j+1);
     int sli = solve(s,i+1,j+1);
-
     return dp[i][j] =  max(gro,sli);;
+}
+int solve(int l){
+     if(l<k) return 0;
+     if(t[l] != -1) return t[l]; 
+     int j = l-1;
+    int  res = solve(j);
+    for(int i=0;j-i+1>=k;i++)
+         if(pal[i][j])
+           res =  max(res,1+solve(i));
+    return t[l] = res;
 }
     int maxPalindromes(string s, int K) {
         n = s.size();
         if(K==1) return n;
+        t.resize(n+1,-1);
         dp.resize(n+1,vector<int> (n+1,-1));
         pal.resize(n+1,vector<bool> (n+1,false));
         k = K;
@@ -37,6 +42,7 @@ int solve(string & s,int i ,int j){
            else if(i+1==j) pal[i][j] = (s[i]==s[j]);
            else pal[i][j] = (s[i]==s[j]) && pal[i+1][j-1];
         }
+        return solve(n);
         for(int i = n; i>=0;i--)
          for(int j=n;j>=0;j--){
             if(i==n || j==n) {
