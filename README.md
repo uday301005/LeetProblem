@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/uday301005/LeetProblem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uday301005/LeetProblem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/uday301005/LeetProblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday301005/LeetProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/uday301005/LeetProblem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/uday301005/LeetProblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/uday301005/LeetProblem/tree/master/2029-stone-game-ix) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/uday301005/LeetProblem/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uday301005/LeetProblem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
