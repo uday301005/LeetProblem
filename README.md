@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday301005/LeetProblem/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/uday301005/LeetProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/uday301005/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/uday301005/LeetProblem/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/uday301005/LeetProblem/tree/master/0149-max-points-on-a-line) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/uday301005/LeetProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/uday301005/LeetProblem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/uday301005/LeetProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uday301005/LeetProblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/uday301005/LeetProblem/tree/master/1331-rank-transform-of-an-array) |
