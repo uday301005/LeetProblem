@@ -30,11 +30,12 @@ int solve(string & s,int i ,int j){
         dp.resize(n+1,vector<int> (n+1,-1));
         pal.resize(n+1,vector<bool> (n+1,false));
         k = K;
-         for (int i = n - 1; i >= 0; i--) {
-            pal[i][i] = true;
-            for (int j = i + 1; j < n; j++) 
-                if (s[i] == s[j] && (j - i == 1 || pal[i + 1][j - 1])) 
-                    pal[i][j] = true;
+        for(int L=1;L<=n; L++)
+         for (int i = 0; i+L <= n; i++) {
+           int j = i+L-1;
+           if(i==j) pal[i][j] = true;
+           else if(i+1==j) pal[i][j] = (s[i]==s[j]);
+           else pal[i][j] = (s[i]==s[j]) && pal[i+1][j-1];
         }
         for(int i = n; i>=0;i--)
          for(int j=n;j>=0;j--){
