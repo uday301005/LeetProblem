@@ -11,14 +11,10 @@ int solve(vector<int> & a ,int mid){
     int minMoves2(vector<int>& a) {
      n=a.size();
     sort(begin(a),end(a));
-
-     int ans = INT_MAX;
-     if(n%2==1){
-        ans = min(ans,solve(a,a[n/2]));
-       }
-     else {
-        ans = min(ans,solve(a, (a[n/2 - 1]+a[n/2] )/2) );
-     }
+     int ans = 0;
+     for(int x : a)
+     ans += abs(x-a[n/2]);
+      
 return ans;
     }
 };
