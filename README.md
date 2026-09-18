@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/uday301005/LeetProblem/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uday301005/LeetProblem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uday301005/LeetProblem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/uday301005/LeetProblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uday301005/LeetProblem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/uday301005/LeetProblem/tree/master/1189-maximum-number-of-balloons) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2029-stone-game-ix](https://github.com/uday301005/LeetProblem/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uday301005/LeetProblem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uday301005/LeetProblem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uday301005/LeetProblem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/uday301005/LeetProblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/uday301005/LeetProblem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2029-stone-game-ix](https://github.com/uday301005/LeetProblem/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/uday301005/LeetProblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2029-stone-game-ix](https://github.com/uday301005/LeetProblem/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/uday301005/LeetProblem/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/uday301005/LeetProblem/tree/master/1386-cinema-seat-allocation) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/uday301005/LeetProblem/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -374,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday301005/LeetProblem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/uday301005/LeetProblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/uday301005/LeetProblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -412,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Counting Sort
 |  |
@@ -473,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Sieve Theory
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 <!---LeetCode Topics End-->
