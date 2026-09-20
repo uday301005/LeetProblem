@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/uday301005/LeetProblem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uday301005/LeetProblem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/uday301005/LeetProblem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/uday301005/LeetProblem/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/uday301005/LeetProblem/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/uday301005/LeetProblem/tree/master/1406-stone-game-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/uday301005/LeetProblem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday301005/LeetProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uday301005/LeetProblem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/uday301005/LeetProblem/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
