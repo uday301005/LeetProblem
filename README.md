@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uday301005/LeetProblem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uday301005/LeetProblem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uday301005/LeetProblem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uday301005/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/uday301005/LeetProblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/uday301005/LeetProblem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uday301005/LeetProblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/uday301005/LeetProblem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uday301005/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/uday301005/LeetProblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/uday301005/LeetProblem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uday301005/LeetProblem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/uday301005/LeetProblem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/uday301005/LeetProblem/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uday301005/LeetProblem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uday301005/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/uday301005/LeetProblem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/uday301005/LeetProblem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/uday301005/LeetProblem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
