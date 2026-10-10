@@ -8,13 +8,12 @@ public:
        freq[abs(n1[i]-n2[i])]++;
   int next=0;
       for(int i=1e5;i>=0;i--){
-    //   if(freq[i]==0) continue;
        freq[i] += next;
+        if(freq[i]==0) continue;
         if(freq[i]<k){
             next = freq[i];
             k-= freq[i];
             freq[i]=0;
-           
         }
         else{
            next = k;
