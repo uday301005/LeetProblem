@@ -1,16 +1,11 @@
 class Solution {
 public:
-    int maxSum(vector<int>& a, int k) {
-        int n = a.size();
+    int maxSum(vector<int>& a, int k) {\
         vector<int> bit(32,0);
-
-       for(int i=0;i<n;i++)
+       for(int x :a)
         for(int j=0;j<32;j++)
-        if(a[i]&(1<<j))
+         if(x &(1<<j))
            bit[j]++;
-        
-      for(int i=0;i<32;i++)
-      cout<<bit[i]<<endl;
    long long sum =0;
    int mod = 1e9+7;
       while(k--){
@@ -21,7 +16,6 @@ public:
             num+= (1<<i);
           }
           sum = (sum + num*num)%mod;
-        
       }
 return sum;
     }
