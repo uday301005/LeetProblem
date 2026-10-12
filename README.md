@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/uday301005/LeetProblem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/uday301005/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uday301005/LeetProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/uday301005/LeetProblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uday301005/LeetProblem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/uday301005/LeetProblem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/uday301005/LeetProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uday301005/LeetProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/uday301005/LeetProblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/uday301005/LeetProblem/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/uday301005/LeetProblem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/uday301005/LeetProblem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/uday301005/LeetProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/uday301005/LeetProblem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uday301005/LeetProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uday301005/LeetProblem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/uday301005/LeetProblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/uday301005/LeetProblem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/uday301005/LeetProblem/tree/master/1386-cinema-seat-allocation) |
 | [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/uday301005/LeetProblem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/uday301005/LeetProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/uday301005/LeetProblem/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/uday301005/LeetProblem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/uday301005/LeetProblem/tree/master/3513-number-of-unique-xor-triplets-i) |
