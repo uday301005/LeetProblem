@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/uday301005/LeetProblem/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [1994-the-number-of-good-subsets](https://github.com/uday301005/LeetProblem/tree/master/1994-the-number-of-good-subsets) |
 | [2029-stone-game-ix](https://github.com/uday301005/LeetProblem/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uday301005/LeetProblem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/uday301005/LeetProblem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/uday301005/LeetProblem/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/uday301005/LeetProblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/uday301005/LeetProblem/tree/master/1331-rank-transform-of-an-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/uday301005/LeetProblem/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/uday301005/LeetProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/uday301005/LeetProblem/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/uday301005/LeetProblem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/uday301005/LeetProblem/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/uday301005/LeetProblem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/uday301005/LeetProblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/uday301005/LeetProblem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/uday301005/LeetProblem/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/uday301005/LeetProblem/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/uday301005/LeetProblem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/uday301005/LeetProblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/uday301005/LeetProblem/tree/master/2685-count-the-number-of-complete-components) |
