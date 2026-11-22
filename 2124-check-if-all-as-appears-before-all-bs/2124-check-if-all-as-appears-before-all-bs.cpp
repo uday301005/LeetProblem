@@ -1,15 +1,13 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int idx=-1;
+        bool is=false;
         for(int i=0;i<s.size();i++){
             if(s[i]=='b'){
-              if(idx==-1) idx=i;
-
+              if(!is) is=true;
             }
-            else {
-                if(idx!=-1) return false;
-            }
+            else if(is)
+             return false;
         }
         return true;
     }
